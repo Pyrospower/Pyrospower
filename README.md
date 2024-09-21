@@ -1,9 +1,35 @@
-- 👋 Hi, I’m @Pyrospower
-- 👀 I’m interested in video games, anime, manga and web development
-- 🌱 I’m currently learning in an IT school
-- 📫 How to reach me : [GitHub page](https://pyrospower.github.io/)
+# Hi there 👋
 
-<!---
-Pyrospower/Pyrospower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I'm Pyrospower, a passionate web developer and VTuber fan from 🇫🇷 France.
+
+- 👀 I’m interested in video games, anime, manga, and IT.
+- 🎥 I also make [VTuber clips](https://youtube.com/@Pyrospower/videos) and enjoy contributing to the community.
+- 🌱 Currently, I'm in my last year of IT school, learning and expanding my skill set every day.
+- 🛠️ I'm working with a range of technologies, constantly improving and seeking out new challenges.
+- 📫 How to reach me: [GitHub page](https://pyrospower.github.io)
+
+<!--
+---
+
+## My Projects 🚀
+
+Here are a few projects I've worked on:
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pyrospower&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=0080ff&bg_color=1d1f21&layout=compact" width="300px" alt="Pyrospower's GitHub stats" />
+
+- 🎂 **[lz2](#)** - Lazulight's 2nd Anniversary project
+- 🔊 **[mq](#)** - Description of an awesome project.
+- 🎲 **[rnd](#)** - Another cool project.
+- 📘 **[bot](#)** - This project was fun to build!
+- _and more!_
+-->
+
+## Tech Stack 🛠
+
+Here are the tools and technologies I’m currently using:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nextjs,svelte,tailwind,prisma,postgres,docker,aws,gcp,discordjs,elysia)](https://skillicons.dev)
+
+## If you feel like supporting me...
+
+<a href="https://www.ko-fi.com/pyrospower"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
