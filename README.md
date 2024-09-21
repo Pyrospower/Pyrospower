@@ -5,7 +5,6 @@
 - 👀 I’m interested in video games, anime, manga, and IT.
 - 🎥 I also make [VTuber clips](https://youtube.com/@Pyrospower/videos) and enjoy contributing to the community.
 - 🌱 Currently, I'm in my last year of IT school, learning and expanding my skill set every day.
-- 🛠️ I'm working with a range of technologies, constantly improving and seeking out new challenges.
 - 📫 How to reach me: [GitHub page](https://pyrospower.github.io)
 
 <!--
@@ -30,6 +29,6 @@ Here are the tools and technologies I’m currently using:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nextjs,svelte,tailwind,prisma,postgres,docker,aws,gcp,discordjs,elysia)](https://skillicons.dev)
 
-## If you feel like supporting me...
+## If you feel like supporting me... 💖
 
-<a href="https://www.ko-fi.com/pyrospower"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+<a href="https://www.ko-fi.com/pyrospower" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
