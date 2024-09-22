@@ -7,6 +7,10 @@
 - 🌱 Currently, I'm in my last year of IT school, learning and expanding my skill set every day.
 - 📫 How to reach me: [GitHub page](https://pyrospower.github.io)
 
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/Pyrospower)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/pyrospower)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/Pyrospower)
+
 <!--
 ---
 
