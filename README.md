@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in video games, anime, manga, and IT.
 - 🎥 I also make [VTuber clips](https://youtube.com/@Pyrospower/videos) and enjoy contributing to the community.
-- 🌱 Currently, I'm in my last year of IT school, learning and expanding my skill set every day.
+- 🌱 Always learning and expanding my skill set every day.
 - 📫 How to reach me: [GitHub page](https://pyrospower.github.io)
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/Pyrospower)
