@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 
 Here are the tools and technologies I’m currently using:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nextjs,svelte,tailwind,prisma,postgres,docker,aws,gcp,discordjs,elysia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,nextjs,svelte,astro,tailwind,prisma,postgres,docker,aws,gcp,discordjs)](https://skillicons.dev)
 
 ## If you feel like supporting me... 💖
 
